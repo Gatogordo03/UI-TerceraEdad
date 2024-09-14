@@ -38,7 +38,11 @@ Para ejecutar esta interfaz de usuario, necesitarás instalar las siguientes bib
 
 `main.py`: Archivo principal que contiene la estructura y configuración del proyecto.
 
+`alternativa.py`: Archivo con una version alternativa del proyecto en una monoestructura
+
 ### Ejecución
+
+#### Version 1
 
 Para ejecutar el proyecto, simplemente utiliza el siguiente comando:
 
@@ -47,6 +51,16 @@ Para ejecutar el proyecto, simplemente utiliza el siguiente comando:
    ```
 
 Esto ejecutará la aplicación con la interfaz diseñada para personas mayores.
+
+#### Version 2
+
+Para ejecutar el proyecto, simplemente utiliza el siguiente comando:
+
+   ```bash
+   python alternativa.py
+   ```
+
+Esto debería de ejecutar la version alternativa de la interfaz para personas mayores
 
 ### Notas
 
