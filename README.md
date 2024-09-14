@@ -1,4 +1,4 @@
-# Documentación de la Interfaz de Usuario para Personas Mayores
+# UI de accesibilidad para Personas Mayores
 
 ## Descripción
 
